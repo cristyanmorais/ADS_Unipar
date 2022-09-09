@@ -1,0 +1,155 @@
+table
+{
+    width: 450px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+}
+
+.univer
+{
+    font-weight: bold;
+    text-align: center;
+}
+
+.ra
+{
+    height: 30px;
+    font-weight: bold;
+    text-align: center;
+    background-color: red;
+    color: white;
+}
+
+.trab
+{
+    text-align: center;
+}
+
+.ex
+{
+    height: 25px;
+    background-color: red;
+    text-align: center;
+    color: white;
+}
+
+.linha1ex
+{
+    background-color: #DDDDDD;
+    height: 75px;
+}
+
+.ex1
+{
+    border: 10px solid #DDDDDD;
+    text-align: center;
+    float: left;
+    color: white;
+    font-weight: bold;
+    font-size: 10px;
+    width: 120px;
+    height: 50px;
+    background-color: lightgrey;
+}
+
+.ex2
+{
+    border: 10px solid #DDDDDD;
+    text-align: center;
+    float: right;
+    color: white;
+    font-weight: bold;
+    font-size: 10px;
+    width: 120px;
+    height: 50px;
+    background-color: silver;
+}
+
+.linha2ex
+{
+    height: 75px;
+    background-color: #DDDDDD;
+}
+
+.setabaixo
+{
+    width: 50px;
+    height: 75px;
+}
+
+.setabaixo2
+{
+    width: 50px;
+    height: 75px;
+}
+
+.linha3ex
+{
+    height: 75px;
+    background-color: #DDDDDD;
+}
+
+.linha4ex
+{
+    height: 75px;
+    background-color: #DDDDDD;
+}
+
+.linha5ex
+{
+    height: 75px;
+    background-color: #DDDDDD;
+}
+
+.ex3
+{
+    border: 10px solid #DDDDDD;
+    text-align: center;
+    float: right;
+    color: white;
+    font-weight: bold;
+    font-size: 10px;
+    width: 120px;
+    height: 50px;
+    background-color: rgb(156, 156, 156);
+}
+
+.ex4
+{
+    border: 10px solid #DDDDDD;
+    text-align: center;
+    float: left;
+    color: white;
+    font-weight: bold;
+    font-size: 10px;
+    width: 120px;
+    height: 50px;
+    background-color: gray;
+}
+
+.ex5
+{
+    border: 10px solid #DDDDDD;
+    text-align: center;
+    float: left;
+    color: white;
+    font-weight: bold;
+    font-size: 10px;
+    width: 120px;
+    height: 50px;
+    background-color: rgb(85, 85, 85);
+}
+
+.ex6
+{
+    border: 10px solid #DDDDDD;
+    text-align: center;
+    float: right;
+    color: white;
+    font-weight: bold;
+    font-size: 10px;
+    width: 120px;
+    height: 50px;
+    background-color: rgb(37, 37, 37);
+}
+

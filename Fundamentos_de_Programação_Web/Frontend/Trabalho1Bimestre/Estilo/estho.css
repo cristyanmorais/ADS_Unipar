@@ -1,0 +1,117 @@
+table
+{
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+}
+
+p
+{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3
+{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2
+{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+th
+{
+    font-size: 20px;
+    text-align: left;
+    height: 40px;
+    border: 2px solid black;
+}
+
+td
+{
+    border: 3px solid black;
+}
+
+.curso
+{
+    width: 150px;
+}
+
+.ads
+{
+    width: 450px;
+}
+
+.periodo
+{
+    text-align: center;
+    width: 200px;
+}
+
+.turno
+{
+    width: 250px;
+}
+
+.noturno
+{
+    width: 200px;
+}
+
+.primlinha
+{
+    text-align: center;
+    background-color: #dddddd;
+    font-weight: bold;
+}
+
+.quadbranco
+{
+    height: 65px;
+    background-color: white;
+    border-style: none;
+}
+
+.horin
+{
+    height: 65px;
+    width: 75px;
+}
+
+.disc
+{
+    width: 650px;
+}
+
+.prof
+{
+    width: 300px;
+}
+
+.sala
+{
+    width: 100px;
+}
+
+.dia
+{
+    background-color: #dddddd;
+    text-align: center;
+}
+
+.horind
+{
+    text-align: center;
+}
+
+.discd
+{
+    font-size: 15px;
+    float: inline-start;
+}
+
+.salad
+{
+    text-align: center;
+    font-weight: bold;
+}

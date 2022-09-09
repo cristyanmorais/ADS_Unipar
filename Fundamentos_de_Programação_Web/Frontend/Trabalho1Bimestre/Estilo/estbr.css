@@ -1,0 +1,190 @@
+table
+{
+    border-collapse: collapse;
+    border: 1px solid #DDDDDD;
+    height: 650px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #666666;
+    font-size: 14px;
+    text-align: center;
+}
+
+td, th
+{
+    width: 30px;
+    border-bottom: 1px solid silver ;
+    border-collapse: collapse;
+}
+
+.uma3
+{
+    width: 45px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+    color: #003366;
+}
+
+.quatro
+{
+    width: 45px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+    color: #1398BE;
+}
+
+.cincoa12
+{
+    width: 45px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+    color: #DE9800;
+}
+
+.trezea16
+{
+    width: 45px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+    color: #CCCCCC;
+}
+
+.ultimas
+{
+    width: 45px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+    color: #C91B04;
+}
+
+.linha1
+{
+    text-align: center;
+    font-size: 13px;
+    color: #999999;
+    font-weight: bold;
+}
+
+.times
+{
+    width: 200px;
+    font-size: 14px;
+    color: #666666;
+    font-weight: bold;
+    text-align: left;
+}
+
+.pontos
+{
+    font-size: 14px;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    background-color: #F7F7F7;
+}
+
+.quadazul
+{
+    width: 10px;
+    height: 10px;
+    background-color: darkblue;
+}
+
+.ultlinha
+{
+    font-size: 10px;
+    color:  #8F8F8F;
+    text-align: left;
+}
+
+.porcento
+{
+    width: 45px;
+    background-color: #F7F7F7;
+}
+
+.porcento1
+{
+    width: 45px;
+}
+
+.fundocinza
+{
+    background-color: #F7F7F7;
+}
+
+.linha4
+{
+    border-bottom: 2px solid #CCCCCC;
+}
+
+.segtabela
+{
+    border-bottom: none;
+    height: 30px;
+    border-top: none;
+    width: 554px;
+}
+
+.teste
+{
+    text-align:left;
+}
+
+.texto1
+{
+    border-bottom: none;
+    font-size: 10px;
+    color: #8F8F8F;
+    text-align: left;
+}
+
+.quads
+{
+    border-bottom: none;
+    width: 10px;
+}
+
+.quadazul2
+{
+    width: 10px;
+    height: 10px;
+    background-color: lightblue;
+}
+
+.quadamarelo
+{
+    width: 10px;
+    height: 10px;
+    background-color: yellow;
+}
+
+.quadverm
+{
+    width: 10px;
+    height: 10px;
+    background-color: red;
+}
+
+.all
+{
+    font-size: 10px;
+    color: #555555;
+    text-align: left;
+}
+
+.siglas
+{
+    font-weight: bold;
+}
+
+.terctabela
+{
+    border-top: none;
+    height: 30px;
+    width: 554px;
+}
