@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0c9b836b-01a8-48e4-b774-c1b237894528" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../create-db.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../create-db.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/main/java/top/dribles/frontend/model/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/main/java/top/dribles/frontend/model/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/main/java/top/dribles/frontend/model/ItemVenda.java" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/main/java/top/dribles/frontend/model/ItemVenda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/main/java/top/dribles/frontend/model/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/main/java/top/dribles/frontend/model/Produto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/main/java/top/dribles/frontend/model/Venda.java" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/main/java/top/dribles/frontend/model/Venda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/main/java/top/dribles/frontend/view/Clientes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/main/java/top/dribles/frontend/view/Clientes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/main/java/top/dribles/frontend/view/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/main/java/top/dribles/frontend/view/Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/main/java/top/dribles/frontend/view/Vendas.form" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/main/java/top/dribles/frontend/view/Vendas.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/main/java/top/dribles/frontend/view/Vendas.java" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/main/java/top/dribles/frontend/view/Vendas.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2h7CkNtNllHjDDr7cH4qEMR3jq9" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.BackendApplication.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_directory_selection": "C:/Users/crist/Documents/faculdade/atividade-web-desktop/backend/src/main/java/top/dribles/backend",
+    "last_opened_file_path": "C:/Users/crist/Documents/faculdade/programacao-web/atividade-1-web",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="BackendApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="backend" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="top.dribles.backend.BackendApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.15989.150" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-IU-241.15989.150" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c9b836b-01a8-48e4-b774-c1b237894528" name="Changes" comment="" />
+      <created>1716935871311</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716935871311</updated>
+      <workItem from="1716935872314" duration="197000" />
+      <workItem from="1716936127548" duration="7312000" />
+      <workItem from="1717020718529" duration="5191000" />
+      <workItem from="1717422292369" duration="682000" />
+      <workItem from="1717453776574" duration="206000" />
+      <workItem from="1717454356677" duration="456000" />
+      <workItem from="1717468126067" duration="35000" />
+      <workItem from="1717521368840" duration="6676000" />
+      <workItem from="1717590815570" duration="2840000" />
+      <workItem from="1717629010408" duration="319000" />
+      <workItem from="1717633646171" duration="1142000" />
+      <workItem from="1717679270126" duration="2384000" />
+      <workItem from="1717712277475" duration="4372000" />
+      <workItem from="1717785225506" duration="3148000" />
+      <workItem from="1717886303422" duration="746000" />
+      <workItem from="1717951865268" duration="11646000" />
+      <workItem from="1719335475353" duration="271000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
