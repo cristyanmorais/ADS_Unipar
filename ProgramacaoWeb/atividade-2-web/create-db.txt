@@ -1,0 +1,13 @@
+create table categoria(
+	id serial primary key,
+	nome varchar not null,
+	is_receita boolean
+);
+
+create table transacao(
+	id serial primary key,
+	quantia numeric(10,2) not null,
+	data_transacao date not null,
+	categoria_id int references categoria(id) not null,
+	descricao varchar not null
+);
